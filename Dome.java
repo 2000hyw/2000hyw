@@ -1,5 +1,5 @@
-public class Hello{
+public class Dome{
 public static void main(String args[]){
-System.out.println("www.Hello.com");
+System.out.println("Dome2");
 }
 }
